@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,8 +16,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TheRakshitRaj/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TheRakshitRaj/LeetCode/tree/main/0001-two-sum/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
