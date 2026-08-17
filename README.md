@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TheRakshitRaj/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -29,4 +30,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 <!---LeetCode Topics End-->
