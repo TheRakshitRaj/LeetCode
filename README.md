@@ -51,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/TheRakshitRaj/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
