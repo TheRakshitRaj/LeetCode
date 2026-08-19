@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/TheRakshitRaj/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
