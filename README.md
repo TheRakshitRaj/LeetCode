@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/TheRakshitRaj/LeetCode/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
