@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TheRakshitRaj/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
