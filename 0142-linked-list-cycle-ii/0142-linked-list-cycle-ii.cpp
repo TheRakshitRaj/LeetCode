@@ -8,17 +8,28 @@
  */
 class Solution {
 public:
-    ListNode *detectCycle(ListNode *head) {
+    ListNode* detectCycle(ListNode* head) {
         ListNode* slow = head;
-        map<ListNode*,int> m ; 
-        while (slow != nullptr) {
-            m[slow]++ ; 
-            if(m[slow] > 1){
-                return slow ;
-            }
+        ListNode* fast = head;
+        bool iscycle = false;
+        while (fast != NULL && fast->next != NULL) {
             slow = slow->next;
-
+            fast = fast->next->next;
+            if (slow == fast) {
+                iscycle = true;
+                break;
+            }
         }
-        return nullptr ;
+
+        if (iscycle) {
+            slow = head;
+            while (fast != slow) {
+                fast = fast->next;
+                slow = slow->next;
+            }
+        } else {
+            return NULL;
+        }
+        return slow;
     }
 };
