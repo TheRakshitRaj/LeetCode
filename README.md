@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/TheRakshitRaj/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/TheRakshitRaj/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/TheRakshitRaj/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheRakshitRaj/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Stack
@@ -51,17 +52,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TheRakshitRaj/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TheRakshitRaj/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -75,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/TheRakshitRaj/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -102,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 <!---LeetCode Topics End-->
