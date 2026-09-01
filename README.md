@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TheRakshitRaj/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/TheRakshitRaj/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/TheRakshitRaj/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TheRakshitRaj/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/TheRakshitRaj/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TheRakshitRaj/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/TheRakshitRaj/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TheRakshitRaj/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/TheRakshitRaj/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -117,4 +120,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TheRakshitRaj/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TheRakshitRaj/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TheRakshitRaj/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
