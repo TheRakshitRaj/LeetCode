@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheRakshitRaj/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
