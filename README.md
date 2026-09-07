@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/TheRakshitRaj/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TheRakshitRaj/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/TheRakshitRaj/LeetCode/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TheRakshitRaj/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/TheRakshitRaj/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
