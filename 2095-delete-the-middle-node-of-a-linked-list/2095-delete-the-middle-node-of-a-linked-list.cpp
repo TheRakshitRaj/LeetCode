@@ -25,7 +25,6 @@ public:
             return NULL ;
         }
         prev -> next = prev -> next -> next ;
-        slow -> next = NULL ;
         delete slow;
 
         return head ;
