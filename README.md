@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/TheRakshitRaj/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/TheRakshitRaj/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/TheRakshitRaj/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/TheRakshitRaj/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/TheRakshitRaj/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/TheRakshitRaj/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/TheRakshitRaj/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
