@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/TheRakshitRaj/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/TheRakshitRaj/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TheRakshitRaj/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/TheRakshitRaj/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheRakshitRaj/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0147-insertion-sort-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheRakshitRaj/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheRakshitRaj/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -131,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -164,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
