@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/TheRakshitRaj/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0682-baseball-game](https://github.com/TheRakshitRaj/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0888-fair-candy-swap](https://github.com/TheRakshitRaj/LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/TheRakshitRaj/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/TheRakshitRaj/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/TheRakshitRaj/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0682-baseball-game](https://github.com/TheRakshitRaj/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TheRakshitRaj/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Matrix
