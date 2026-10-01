@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/TheRakshitRaj/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/TheRakshitRaj/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheRakshitRaj/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Monotonic Stack
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/TheRakshitRaj/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/TheRakshitRaj/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
@@ -195,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheRakshitRaj/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/TheRakshitRaj/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
