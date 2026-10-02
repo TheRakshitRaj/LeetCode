@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TheRakshitRaj/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheRakshitRaj/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheRakshitRaj/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheRakshitRaj/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/TheRakshitRaj/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheRakshitRaj/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheRakshitRaj/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheRakshitRaj/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/TheRakshitRaj/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
