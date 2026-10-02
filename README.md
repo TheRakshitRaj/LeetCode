@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/TheRakshitRaj/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0767-reorganize-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/TheRakshitRaj/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TheRakshitRaj/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheRakshitRaj/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/TheRakshitRaj/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
